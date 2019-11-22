@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8">
+<student>
+		<studentinfo>
+				<name>Navjot Kaur</name>
+				<roll_no>D17174A01</roll_no>
+				<regd_no>10802324</regd_no>
+				<phone>9888881232</phone>
+		</studentinfo>
+		
+		<studentinfo>
+				<name>Pankaj Kumar</name>
+				<roll_no>D17174B01</roll_no>
+				<regd_no>10802784</regd_no>
+				<phone>9888881902</phone>
+		</studentinfo>
+</student>
